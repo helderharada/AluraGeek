@@ -1,0 +1,13 @@
+Elementos principais da página:
+Título do site;
+Menu principal;
+Buscador de itens;
+Botão iniciar sessão;
+Banner;
+Galeria de produtos;
+Formulário de contato;
+Rodapé.
+
+
+Logo da empresa
+Anexado a este cartão, você encontrá a logo da empresa AluraGeek. Esse logo ficará no canto superior esquerdo da página que você está desenvolvendo.
