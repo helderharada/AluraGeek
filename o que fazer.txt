@@ -11,3 +11,5 @@ Rodapé.
 
 Logo da empresa
 Anexado a este cartão, você encontrá a logo da empresa AluraGeek. Esse logo ficará no canto superior esquerdo da página que você está desenvolvendo.
+
+A barra de pesquisa de itens da loja ficará localizada no meio do cabeçalho. Como nosso foco é a estrutura e a estilização, ela ainda não é uma barra de pesquisa funcional.
